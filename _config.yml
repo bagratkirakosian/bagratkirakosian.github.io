@@ -1,0 +1,10 @@
+# Site settings
+title: Bagrat Kirakosian
+tag_text: Bagrat Kirakosian
+description: Bagrat Kirakosian's projects.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
