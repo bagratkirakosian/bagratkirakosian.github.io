@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Bagrat Kirakosian](profile_photo.png){:style="float: right; margin-right: 16px;"}
+![Bagrat Kirakosian](profile_photo.png){:style="float: left; margin-right: 16px;"}
 
 I have over 5 years of experience working in Software Development. Currently, I work as Helix's iOS Developer, updating and developing apps for our customers by using advanced frameworks, libraries and onboarding compelling products.
 
@@ -13,19 +13,27 @@ Competencies: algorithms, data structures, OOP, Objective C / Swift / X Code
 
 ## Projects
 
-Hypermark
+Hypermark*
 > Category: Photo & Video editing
 
-MyConcierge
+---
+
+MyConcierge*
 > Category:Lifestyle
 
-Wally
+---
+
+Wally*
 > Category: Social Network
 
-Stay On Wheels
+---
+
+Stay On Wheels*
 > Category: Games
 
-NaKo Games
+---
+
+NaKo Games*
 > Category: Games
 
 ~~~html
