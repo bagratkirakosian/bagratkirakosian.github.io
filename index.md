@@ -13,23 +13,26 @@ Competencies: algorithms, data structures, OOP, Objective C / Swift / X Code
 
 ## Projects
 
-Hypermark<br/>
+Hypermark
 
 > Category: Photo & Video editing
 
 ---
 
-MyConcierge<br/>
+MyConcierge
+
 > Category:Lifestyle
 
 ---
 
-Wally<br/>
+Wally
+
 > Category: Social Network
 
 ---
 
-Stay On Wheels<br/>
+Stay On Wheels
+
 > Category: Games
 
 ---
