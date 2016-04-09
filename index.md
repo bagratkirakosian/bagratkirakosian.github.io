@@ -20,24 +20,22 @@ Hypermark<br/>
 ---
 
 MyConcierge<br/>
-
 > Category:Lifestyle
 
 ---
 
 Wally<br/>
-
 > Category: Social Network
 
 ---
 
 Stay On Wheels<br/>
-
 > Category: Games
 
 ---
 
-NaKo Games*
+NaKo Games
+
 > Category: Games
 
 ~~~html
